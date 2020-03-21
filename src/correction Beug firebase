@@ -1,0 +1,5 @@
+npm uninstall firebase
+
+npm cache clear
+
+npm i firebase --save
